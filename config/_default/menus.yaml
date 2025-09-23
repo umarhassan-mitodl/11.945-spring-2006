@@ -1,0 +1,40 @@
+leftnav:
+- identifier: 476824df-a32a-57b0-c6f2-576cceb140a7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 784c2ef3-05e7-8850-b986-19f33ca83396
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 617e21d4-2044-6e35-19d3-bd7e79136a28
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 9950a225-d1fc-2677-e47d-e472072db31a
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: cab2ee9b-e0bc-7315-dbde-f065a27dcb08
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 0214c26d-b93f-b494-d085-cf032f003bf5
+  name: Image Gallery
+  pageRef: /pages/image-gallery/
+  weight: 60
+- identifier: 34813acf-eceb-18ad-c8f6-8484d9a7d88f
+  name: New Orleans Images
+  pageRef: /pages/image-gallery/new-orleans-images
+  parent: 0214c26d-b93f-b494-d085-cf032f003bf5
+  weight: 10
+- identifier: eaba43ea-3593-07a4-ef7e-8eddb84d8ff6
+  name: The Environment Images
+  pageRef: /pages/image-gallery/the-environment-images
+  parent: 0214c26d-b93f-b494-d085-cf032f003bf5
+  weight: 20
+- identifier: fbe8adfd-dab3-7abe-bfe6-e4b0a45cba40
+  name: "Trem\xE9 Images"
+  pageRef: /pages/image-gallery/treme-images
+  parent: 0214c26d-b93f-b494-d085-cf032f003bf5
+  weight: 30
