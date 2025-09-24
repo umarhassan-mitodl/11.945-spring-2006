@@ -19,9 +19,9 @@ Hirsch, Arnold, and Joseph Logsdon, eds. *Creole New Orleans: Race and Americani
 
 Lewis, Pierce. *New Orleans: The Making of an Urban Landscape*. Sante Fe, NM: Center for American Places, 2003. ISBN: 1930066104.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/uneasy-alchemy) Allen, Barbara. [*Uneasy Alchemy: Citizens and Experts in Louisiana's Chemical Corridor Disputes*](https://mitpress.mit.edu/books/uneasy-alchemy). Cambridge, MA: MIT Press, 2003. ISBN: 0262012030.
+{{% resource_link "6f0a793d-7b5f-4723-b33a-8f0934ec0845" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Allen, Barbara. {{% resource_link "6f0a793d-7b5f-4723-b33a-8f0934ec0845" "*Uneasy Alchemy: Citizens and Experts in Louisiana's Chemical Corridor Disputes*" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 0262012030.
 
-Smith, Neil. "[There's No Such Thing as a Natural Disaster](http://forums.ssrc.org/understandingkatrina/theres-no-such-thing-as-a-natural-disaster/)." *Understanding Katrina: Perspectives from the Social Sciences*. SSRC Forum. New York, NY: Social Science Research Council.
+Smith, Neil. "{{% resource_link "99672b6d-9276-4d2a-9cf0-9831968d1b5e" "There's No Such Thing as a Natural Disaster" %}}." *Understanding Katrina: Perspectives from the Social Sciences*. SSRC Forum. New York, NY: Social Science Research Council.
 
 Amulya, Joy. "Summary of Critical Moments Reflection." Cambridge, MA: Center for Reflective Community Practice, MIT, 2005.
 
@@ -33,18 +33,18 @@ McDowell, Ceasar, Andrea Nagel, Susana Williams, and Claudia Canepa. "Building K
 
 ## Suggestion Resources
 
-[American Planning Association: APA's Response to the Devastation from Hurricane Katrina](https://web.archive.org/web/20220707024022/https://www.planning.org/blog/blogpost/9148744//)
+{{% resource_link "34d0eab3-2a04-4711-88cc-47202ff631e1" "American Planning Association: APA's Response to the Devastation from Hurricane Katrina" %}}
 
-[Hurricane Digital Memory Bank: Preserving the Stories of Katrina, Rita, and Wilma](http://www.hurricanearchive.org/)
+{{% resource_link "0c85b1c2-8323-4b9c-b643-b19b743a441f" "Hurricane Digital Memory Bank: Preserving the Stories of Katrina, Rita, and Wilma" %}}
 
-[Bring New Orleans Back Fund](http://www.bringneworleansback.org/)
+{{% resource_link "fc071e08-61d1-424e-9c82-ed9429947e65" "Bring New Orleans Back Fund" %}}
 
-[Natural Resources Defense Council: New Orleans Environmental Quality Test Results](http://www.nrdc.org/health/effects/katrinadata/contents.asp)
+{{% resource_link "8aa59a73-d583-4a9f-9f1d-4e81fe2c1224" "Natural Resources Defense Council: New Orleans Environmental Quality Test Results" %}}
 
-ULI Proposal for Rebuilding New Orleans ([PDF - 2.9 MB](http://www.bostonfed.org/commdev/c&b/2008/spring/Reardon_New_Orleans_rebuilds.pdf))
+ULI Proposal for Rebuilding New Orleans ({{% resource_link "7a71c227-8931-4b59-8a15-dba1d31b62da" "PDF - 2.9 MB" %}})
 
-[LSU Katrina and Rita Clearinghouse](http://gis-geoblog.blogspot.com/2006/08/hurricane-katrina-rita-clearinghouse.html)
+{{% resource_link "77922e52-54aa-421b-9b69-802dcec3c537" "LSU Katrina and Rita Clearinghouse" %}}
 
 Moga Photo - New Orleans Gallery
 
-[Greater New Orleans Community Data Center](http://www.gnocdc.org/)
+{{% resource_link "8b773fd0-9c14-4d40-8f8e-127511afa231" "Greater New Orleans Community Data Center" %}}
